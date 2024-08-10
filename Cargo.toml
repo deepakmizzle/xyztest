@@ -1,0 +1,3 @@
+[workspace]
+members = ["netguard", "netguard-common", "xtask"]
+workspace.resolver = "2"
