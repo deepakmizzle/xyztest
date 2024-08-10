@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "Cargo.toml",
+    "netguard-ebpf/Cargo.toml"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "rust-lang.rust-analyzer"
+}
